@@ -1,0 +1,5 @@
+package projetoYouTube;
+
+public interface AcoesVideo {
+
+}
